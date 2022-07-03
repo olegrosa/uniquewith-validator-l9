@@ -1,8 +1,8 @@
 {
-    "name": "felixkiss/uniquewith-validator",
+    "name": "robbielove/uniquewith-validator",
     "description": "Custom Laravel Validator for combined unique indexes",
     "keywords": ["laravel"],
-    "homepage": "https://github.com/felixkiss/uniquewith-validator",
+    "homepage": "https://github.com/robbielove/uniquewith-validator",
     "license": "MIT",
     "authors": [
         {
