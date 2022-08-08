@@ -1,8 +1,8 @@
 {
-    "name": "robbielove/uniquewith-validator",
+    "name": "olegrosa/uniquewith-validator-l9",
     "description": "Custom Laravel Validator for combined unique indexes",
     "keywords": ["laravel"],
-    "homepage": "https://github.com/robbielove/uniquewith-validator",
+    "homepage": "https://github.com/olegrosa/uniquewith-validator-l9",
     "license": "MIT",
     "authors": [
         {
